@@ -48,23 +48,23 @@ This bot automates every essential Twitter task — powered by your settings, an
 
 > - Credentials tab
 
-![Screenshot 2025-04-21 144308](https://github.com/user-attachments/assets/fea64df8-61e3-4248-bd05-76f27731df31)
+![Screenshot 2025-04-21 144308](https://github.com/user-attachments/assets/021837f3-25ae-4e46-b1ed-64f9686180e6)
 
 > - Personality tab
 
-![Screenshot 2025-04-21 144318](https://github.com/user-attachments/assets/637522e9-f8e6-40ec-9752-a1245bfacc79)
+![Screenshot 2025-04-21 144318](https://github.com/user-attachments/assets/810b5a84-380c-4f86-9507-ca873524b1d2)
 
 > - Content tab
 
-![Screenshot 2025-04-21 144332](https://github.com/user-attachments/assets/f2a1bd24-aae7-455b-a7c6-dcf4d04b4f8f)
+![Screenshot 2025-04-21 144332](https://github.com/user-attachments/assets/035f0857-85ac-4498-a232-be1b3e4b23b6)
 
 > - Actions & Limits tab
 
-![Screenshot 2025-04-21 144344](https://github.com/user-attachments/assets/a43f81bb-413c-471c-bb4f-a0c4027bbd6d)
+![Screenshot 2025-04-21 144344](https://github.com/user-attachments/assets/65bb3519-a577-4b24-b6b6-4d11f6b7ae29)
 
 > - Behaviour tab
 
-![Screenshot 2025-04-21 144357](https://github.com/user-attachments/assets/9ec846d9-afe3-421e-9f45-6aba143fb07e)
+![Screenshot 2025-04-21 144357](https://github.com/user-attachments/assets/92fd785d-c4e3-4418-be60-5405c3e34f4b)
 
 ---
 
