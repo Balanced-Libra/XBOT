@@ -42,10 +42,9 @@ This bot automates every essential Twitter task — powered by your settings, an
 
 ## 🖼️ Screenshots
 
-_(Add your screenshots here once ready — show off the GUI, settings, logs, or tweet previews!)_
+> - Login screen
+> - ![Screenshot 2025-04-21 144232](https://github.com/user-attachments/assets/591fb9f7-606e-4460-942c-d9fb38113a09)
 
-> _Example:_
-> - Login screen  
 > - Settings panel (personality config)  
 > - Console output with color-coded logs  
 
@@ -87,7 +86,6 @@ TwitterBot/
 ├── logs/                    # Color-coded runtime logs
 ├── Database/                # SQLite memory (tweets, follows, etc.)
 ├── drivers/                 # ChromeDriver goes here
-└── GUI/                     # Login and settings windows
 ```
 
 ---
@@ -104,7 +102,7 @@ TwitterBot/
 ## 💌 Contact
 
 Want a custom version? Interested in licensing?  
-Let’s talk — reach out via [Twitter](#) or email me at `your@email.com`
+Let’s talk — email me at `guyjamesjulius@gmail.com`
 
 ---
 
