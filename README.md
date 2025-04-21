@@ -43,6 +43,7 @@ This bot automates every essential Twitter task — powered by your settings, an
 ## 🖼️ Screenshots
 
 > - Login screen
+
 ![Screenshot 2025-04-21 144232](https://github.com/user-attachments/assets/591fb9f7-606e-4460-942c-d9fb38113a09)
 
 > - Credentials tab
